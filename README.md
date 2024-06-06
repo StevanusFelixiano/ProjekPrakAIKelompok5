@@ -15,19 +15,19 @@ Convolutional Neural Network (CNN) merupakan algoritma Deep Learning yang meneri
 **Teknologi yang Digunakan**
 
 Language:
-Python
+- Python
 
 Libraries:
-Numpy
-Pandas
-Tensorflow
-Matplotlib
+- Numpy
+- Pandas
+- Tensorflow
+- Matplotlib
 
 Dataset:
-https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition 
+- https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition 
 
 Code Editor:
-Google Colab
-Kaggle notebook
+- Google Colab
+- Kaggle notebook
 
 
